@@ -3,11 +3,17 @@ package dataTypes;
 public class WhileLoop {
 
 	public static void main(String[] args) {
-		String place = "Brooklyn";
+		
+		//changed the location
+		
+		String place = "queens";
 		int start = 1;
-		while (start<=3)
+		
+		while (start<=3)}
+		{
 			System.out.println("I am from"+ place);
 		start ++;
+		}
 	
 	
 
