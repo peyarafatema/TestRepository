@@ -24,7 +24,7 @@ public class DataDemo {
 		 */
 		
 		
-		string roll no;
+		//string roll no;
 		
 		
 		

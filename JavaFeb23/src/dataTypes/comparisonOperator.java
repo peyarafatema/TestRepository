@@ -7,15 +7,6 @@ public class comparisonOperator {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		string actual = "Google"
  
 	}
 
